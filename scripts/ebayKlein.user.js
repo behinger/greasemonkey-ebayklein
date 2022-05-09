@@ -10,8 +10,8 @@
 // @include      https://www.ebay-kleinanzeigen.de/s-*
 // @exclude      https://www.ebay-kleinanzeigen.de/s-anzeige/*
 // @exclude      https://www.ebay-kleinanzeigen.de/s-Bestands*
-// @updateURL
-// @downloadURL
+// @updateURL	https://raw.githubusercontent.com/behinger/greasemonkey-ebayklein/main/scripts/ebayKlein.user.js
+// @downloadURL https://raw.githubusercontent.com/behinger/greasemonkey-ebayklein/main/scripts/ebayKlein.user.js
 
 // ==/UserScript==
 
